@@ -1,7 +1,10 @@
 ============================================================
            TUFF SOUL WEB v2.0 - POST INSTALLATION
 ============================================================
-
+# 📥 Download Latest Version
+> **[Click here to download TUFF SOUL Web v2.0 Setup](https://github.com/tuffsoul-labs/TUFF-SOUL-Web-Distribution/releases/latest/download/Tuff_Soul_Web_v2.0_Setup.exe)**
+>
+> 
 Thank you for choosing TUFF SOUL WEB v2.0. You are now 
 utilizing a high-fidelity media archiving system built 
 for speed and modern UI enthusiasts.
