@@ -1,46 +1,118 @@
 ============================================================
-           TUFF SOUL WEB v2.0 - POST INSTALLATION
+           TUFF SOUL WEB v2.1 — OFFICIAL RELEASE
 ============================================================
+
 # 📥 Download Latest Version
-> **[Click here to download TUFF SOUL Web v2.0 Setup](https://github.com/tuffsoul-labs/TUFF-SOUL-Web-Distribution/releases/latest/download/Tuff_Soul_Web_v2.0_Setup.exe)**
->
-> 
-Thank you for choosing TUFF SOUL WEB v2.0. You are now 
-utilizing a high-fidelity media archiving system built 
-for speed and modern UI enthusiasts.
+> **[Download TUFF SOUL Web v2.1 Setup](https://github.com/tuffsoul-labs/TUFF-SOUL-Web-Distribution/releases/latest/download/Tuff_Soul_Web_v2.1_Setup.exe)**
 
-ABOUT TUFF SOUL LABS:
-Tuff Soul Labs is an independent development collective 
-focused on building utility-first software for creators 
-and archivists. We prioritize anonymity and code-first 
-solutions. Our goal is to provide tools that work 
-without the bloat of traditional software.
+---
 
-V2.0 WEB VERSION DETAILS:
-- Single-instance execution for maximum performance.
-- Native multi-threaded downloading.
-- Dynamic quality selection based on live server metadata.
-- Persistent history tracking for your archives.
+⚠️ **IMPORTANT NOTICE**
 
-QUICK TROUBLESHOOTING & GUIDANCE:
-Sometimes the internet doesn't play nice. If you experience 
-issues, follow these steps:
+TUFF SOUL Web v2.0 has been **deprecated and removed** due to internal security improvements.  
+All users are strongly advised to install **v2.1**, which includes updated system stability and security enhancements.
 
-1. FETCH ERRORS: If a video link doesn't fetch metadata or 
-   the sequence remains "Idle," the server might be 
-   throttling your connection. Wait 5 minutes and try again.
-   
-2. REGIONAL RESTRICTIONS: If a video is blocked in your 
-   region, use a VPN. Set your location to a different 
-   country, restart the TUFF SOUL app, and paste the link again.
-   
-3. APP RESTART: If the interface becomes unresponsive, 
-   close the browser tab AND the background process in 
-   the system tray, then restart the app.
+---
 
-4. NETWORK STABILITY: Ensure you have a stable connection. 
-   Sudden drops can cause the archive process to fail.
+## 🚀 About TUFF SOUL
 
-Enjoy the high-fidelity experience.
-- Tuff Soul Labs
-============================================================
+TUFF SOUL Web v2.1 is a high-performance media archiving system designed for:
+
+- ⚡ Speed and efficiency  
+- 🎧 High-quality media extraction (MP4 / MP3)  
+- 🧠 Clean, modern UI experience  
+- 🔒 Improved system reliability  
+
+---
+
+## 🧠 About Tuff Soul Labs
+
+Tuff Soul Labs is an independent development collective focused on building **utility-first software** for creators, archivists, and power users.
+
+We prioritize:
+- Performance-driven architecture  
+- Minimal and efficient design  
+- Practical tools without unnecessary overhead  
+
+---
+
+## ✨ What’s New in v2.1
+
+- 🔒 Security improvements and internal system fixes  
+- ⚡ Enhanced execution stability  
+- 🎧 Improved download and conversion handling  
+- 🧠 Optimized backend processes  
+- 🖥️ Better UI responsiveness  
+
+---
+
+## 📌 Important Usage Notes
+
+- Keep the application open during active downloads  
+- Do not interrupt processing once started  
+- Ensure a stable internet connection  
+
+---
+
+## 🔍 Troubleshooting & Guidance
+
+If you encounter issues:
+
+### 1. Fetch / Loading Issues  
+If a link fails to load metadata or remains idle:  
+→ Wait a few minutes and retry (server-side throttling may occur)
+
+---
+
+### 2. Region-Restricted Content  
+→ Use a VPN  
+→ Change location  
+→ Restart app and retry  
+
+---
+
+### 3. Application Unresponsive  
+→ Close browser tab  
+→ Allow background process to exit  
+→ Relaunch the app  
+
+---
+
+### 4. Network Stability  
+→ Ensure consistent internet connection  
+→ Avoid interruptions during downloads  
+
+---
+
+## 🔐 Privacy & Maintenance
+
+TUFF SOUL Web may collect limited, non-sensitive diagnostic information to improve system reliability.
+
+This includes:
+- Application session events (start/stop)
+- Basic performance and error logs
+
+This data is used only for:
+- Improving stability
+- Debugging issues
+- Maintaining service quality
+
+No personal files, media content, or sensitive user data are collected.
+---
+
+## ⚠️ Antivirus Notice
+
+Some antivirus software may flag the installer due to packaging methods (common with PyInstaller-based applications).  
+This is a **false positive**.
+
+---
+
+## 📌 Final Note
+
+TUFF SOUL Web is continuously evolving.  
+Future updates will focus on performance, stability, and enhanced user experience.
+
+---
+
+Enjoy the system ⚡  
+**— Tuff Soul Labs**
