@@ -1,7 +1,7 @@
 ============================================================
            TUFF SOUL WEB v2.1 — OFFICIAL RELEASE
 ============================================================
-
+![Downloads](https://img.shields.io/github/downloads/tuffsoul-labs/TUFF-SOUL-Web-Distribution/total?style=for-the-badge&color=a855f7&label=Global%20Installs🐦‍🔥)
 # 📥 Download Latest Version
 > **[Download TUFF SOUL Web v2.1 Setup](https://github.com/tuffsoul-labs/TUFF-SOUL-Web-Distribution/releases/latest/download/Tuff_Soul_Web_v2.1_Setup.exe)**
 
