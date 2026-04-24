@@ -84,7 +84,7 @@ If a link fails to load metadata or remains idle:
 
 ---
 
-## 🔐 Privacy & Maintenance
+## 🛡️ Privacy & Maintenance
 
 **Tuff Soul Labs** operates on a **Local-First** and **Zero-Knowledge** architecture. Your data, your downloads, and your identity remain entirely under your control.
 
