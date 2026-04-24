@@ -86,18 +86,14 @@ If a link fails to load metadata or remains idle:
 
 ## 🔐 Privacy & Maintenance
 
-TUFF SOUL Web may collect limited, non-sensitive diagnostic information to improve system reliability.
+**Tuff Soul Labs** operates on a **Local-First** and **Zero-Knowledge** architecture. Your data, your downloads, and your identity remain entirely under your control.
 
-This includes:
-- Application session events (start/stop)
-- Basic performance and error logs
+* **Privacy by Design:** We do not monitor URLs, file names, or personal content.
+* **Minimal Telemetry:** We collect only essential technical metrics (such as device authorization and regional stability) to maintain service integrity and prevent bot abuse.
+* **Local Storage:** All media is processed and stored exclusively on your local hardware.
 
-This data is used only for:
-- Improving stability
-- Debugging issues
-- Maintaining service quality
+For a detailed breakdown of our data handling and security standards, please review our official **[Privacy & Security Protocol](./PRIVACY.md)**.
 
-No personal files, media content, or sensitive user data are collected.
 ---
 
 ## ⚠️ Antivirus Notice
