@@ -95,6 +95,17 @@ If a link fails to load metadata or remains idle:
 For a detailed breakdown of our data handling and security standards, please review our official **[Privacy & Security Protocol](./PRIVACY.md)**.
 
 ---
+### 🔍 Security Integrity Audit
+**Verification Authority:** `VirusTotal` (70+ Aggregated Engines)
+
+![Status: Clean](https://img.shields.io/badge/STATUS-CLEAN-brightgreen?style=for-the-badge&logo=shieldui&logoColor=white)
+![Detections: 0/70](https://img.shields.io/badge/DETECTIONS-0%2F70-blue?style=for-the-badge)
+
+**Target Build:** `TuffSoul_v2.1_Stable`  
+**Analysis Report:** [View Detailed Scan Results](https://www.virustotal.com/gui/file/d6cd8da07917706b8b6db13234f0ad89a24e8ea03464df96ef9c062e2743115f)  
+**Binary Hash:** `d6cd8da07917706b8b6db13234f0ad89a24e8ea03464df96ef9c062e2743115f`
+
+---
 
 ## ⚠️ Antivirus Notice
 
