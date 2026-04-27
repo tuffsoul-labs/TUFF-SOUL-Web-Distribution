@@ -1,7 +1,12 @@
+![Security](https://img.shields.io/badge/Security-0%2F70_VirusTotal-brightgreen?style=for-the-badge&logo=shield)
+![Privacy](https://img.shields.io/badge/Privacy-Zero_Knowledge-blue?style=for-the-badge&logo=lock)
+[![Build](https://img.shields.io/badge/Build-v2.1_Stable-blueviolet?style=for-the-badge&logo=github)](https://github.com/tuffsoul-labs/TUFF-SOUL-Web-Distribution/releases/latest/)
+![OS](https://img.shields.io/badge/Platform-Windows_x64-lightgrey?style=for-the-badge&logo=windows)
+
 ============================================================
            TUFF SOUL WEB v2.1 — OFFICIAL RELEASE
 ============================================================
-![Downloads](https://img.shields.io/github/downloads/tuffsoul-labs/TUFF-SOUL-Web-Distribution/total?style=for-the-badge&color=a855f7&label=Global%20Installs🐦‍🔥)
+
 # 📥 Download Latest Version
 > **[Download TUFF SOUL Web v2.1 Setup](https://github.com/tuffsoul-labs/TUFF-SOUL-Web-Distribution/releases/download/v2.1/Tuff_Soul_Web_v2.1_Setup.exe)**
 
