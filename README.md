@@ -1,4 +1,4 @@
-![Security](https://img.shields.io/badge/Security-0%2F70_VirusTotal-brightgreen?style=for-the-badge&logo=shield)
+[![Security](https://img.shields.io/badge/Security-0%2F70_VirusTotal-brightgreen?style=for-the-badge&logo=shield)](https://www.virustotal.com/gui/file/d6cd8da07917706b8b6db13234f0ad89a24e8ea03464df96ef9c062e2743115f)
 ![Privacy](https://img.shields.io/badge/Privacy-Zero_Knowledge-blue?style=for-the-badge&logo=lock)
 [![Build](https://img.shields.io/badge/Build-v2.1_Stable-blueviolet?style=for-the-badge&logo=github)](https://github.com/tuffsoul-labs/TUFF-SOUL-Web-Distribution/releases/latest/)
 ![OS](https://img.shields.io/badge/Platform-Windows_x64-lightgrey?style=for-the-badge&logo=windows)
@@ -103,8 +103,8 @@ For a detailed breakdown of our data handling and security standards, please rev
 ### 🔍 Security Integrity Audit
 **Verification Authority:** `VirusTotal` (70+ Aggregated Engines)
 
-![Status: Clean](https://img.shields.io/badge/STATUS-CLEAN-brightgreen?style=for-the-badge&logo=shieldui&logoColor=white)
-![Detections: 0/70](https://img.shields.io/badge/DETECTIONS-0%2F70-blue?style=for-the-badge)
+[![Status: Clean](https://img.shields.io/badge/STATUS-CLEAN-brightgreen?style=for-the-badge&logo=shieldui&logoColor=white)](https://www.virustotal.com/gui/file/d6cd8da07917706b8b6db13234f0ad89a24e8ea03464df96ef9c062e2743115f)
+[![Detections: 0/70](https://img.shields.io/badge/DETECTIONS-0%2F70-blue?style=for-the-badge)](https://www.virustotal.com/gui/file/d6cd8da07917706b8b6db13234f0ad89a24e8ea03464df96ef9c062e2743115f)
 
 **Target Build:** `TuffSoul_v2.1_Stable`  
 **Analysis Report:** [View Detailed Scan Results](https://www.virustotal.com/gui/file/d6cd8da07917706b8b6db13234f0ad89a24e8ea03464df96ef9c062e2743115f)  
